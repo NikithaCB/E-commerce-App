@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EcomApp</string>
+    <string name="no_notifications">If there are no notifications</string>
+    <string name="yes_notifications">If there are notifications</string>
+    <string name="profile_information">profile information</string>
+    <string name="home">Home or Dashboard</string>
+    <string name="menu">Menu</string>
+    <string name="shopping_cart_no_items">Shopping Cart is empty</string>
+    <string name="shopping_cart_items">Shopping Cart has items</string>
+</resources>
